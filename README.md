@@ -1,5 +1,5 @@
 # FSM Behaviour
-
+A monbehaviour based finite state machine for Unity3D. 
 ## Features
 - A simple framework that uses enables/disables monobehaviours as state changes
 - C# Actions to hook in to for state changes
