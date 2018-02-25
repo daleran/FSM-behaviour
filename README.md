@@ -8,4 +8,4 @@ A monbehaviour based finite state machine for Unity3D.
 ## Usage
 - Create custom states by deriving from FSMState
 - Override CanTransitionTo(FSMState) to inform the state machine when the condition is met to change states
-- Change states through your custom states or through the a custom class derived from FSMBehaviour
+- Change states through your custom states or through a custom class derived from FSMBehaviour
